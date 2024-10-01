@@ -1,0 +1,6 @@
+![Halaman Registrasi](registrasi.jpeg)
+![Halaman Login](login.jpeg)
+![Halaman List Produk](list.jpeg)
+![Halaman Detail Produk](detail.jpeg)
+![Halaman Ubah Produk](ubah.jpeg)
+![Halaman Tambah Produk](tambah.jpeg)
